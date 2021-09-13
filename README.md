@@ -3,7 +3,7 @@
 
 
 
-<p align="center">I'm a Full Stack developer.<br/>I specialize in Backend.<br> I also love to play the Bass</p><br/>
+<p align="center">I'm a Full Stack developer.<br/>I specialize in Backend.<br> I also love to play the Bass!!</p><br/>
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
