@@ -9,9 +9,9 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working on KIKU APP stuff.
-- 🌱 I’m currently Java.
-- 👯 I’m looking to collaborate on Open sourceprojects.
+- 🔭 I'm working on KIKU APP.
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on Open source projects.
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
