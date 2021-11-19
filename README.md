@@ -10,8 +10,8 @@
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working at Glovo.
-- 🌱 I’m currently learning Spring.
-- 👯 I’m looking to collaborate on Open source projects.
+- 🌱 I’m currently learning Kotlin.
+
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
