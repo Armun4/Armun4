@@ -10,7 +10,7 @@
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working at Glovo.
-- 🌱 I’m currently learning Kotlin and AWS.
+- 🌱 I’m currently learning reactive Programming.
 
 
 
