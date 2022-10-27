@@ -23,16 +23,5 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/armangox/) 
 
 
-</p>
-
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Armun4&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
- 
-
 
 
